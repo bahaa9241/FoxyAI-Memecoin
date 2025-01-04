@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FoxyAI - Smarter Memecoin Revolution</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e, #16213e, #0f3460);
+            color: #ffffff;
+            text-align: center;
+            padding: 0;
+        }
+
+        header {
+            padding: 20px 20px;
+            background: #0f3460;
+            color: #ffcc00;
+            font-size: 2.5rem;
+            font-weight: bold;
+        }
+
+        .cta {
+            background: #ffcc00;
+            color: #16213e;
+            padding: 15px;
+            font-size: 1.2rem;
+            margin: 20px auto;
+            display: inline-block;
+            border-radius: 5px;
+            text-transform: uppercase;
+            font-weight: bold;
+        }
+
+        section {
+            margin: 40px 20px;
+        }
+
+        h1 {
+            font-size: 2rem;
+            color: #ffcc00;
+        }
+
+        h2 {
+            font-size: 1.5rem;
+            margin: 20px 0;
+            color: #f5f5f5;
+        }
+
+        p {
+            font-size: 1rem;
+            line-height: 1.6;
+            color: #dcdcdc;
+        }
+
+        footer {
+            margin-top: 50px;
+            padding: 20px;
+            background: #1a1a2e;
+            font-size: 0.9rem;
+            color: #999;
+        }
+
+        .highlight {
+            color: #ffcc00;
+            font-weight: bold;
+        }
+
+        nav {
+            background: #1a1a2e;
+            padding: 10px 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        nav ul {
+            list-style-type: none;
+            display: flex;
+            margin: 0;
+            padding: 0;
+        }
+
+        nav ul li {
+            margin: 0 10px;
+        }
+
+        nav ul li a {
+            color: #ffcc00;
+            text-decoration: none;
+            font-size: 1rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        FoxyAI - Smarter Memecoin Revolution
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#features">Features</a></li>
+            <li><a href="#tokenomics">Tokenomics</a></li>
+            <li><a href="#faq">FAQ</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section id="about">
+        <h1>What is FoxyAI?</h1>
+        <p>FoxyAI is the world’s most innovative memecoin, merging cutting-edge AI with community-driven purpose. With a unique glowing mascot and advanced technology, FoxyAI redefines the future of crypto.</p>
+    </section>
+
+    <section id="features">
+        <h2>Features of FoxyAI</h2>
+        <ul>
+            <li>🚀 AI-Powered Utility</li>
+            <li>🦊 Community Governance</li>
+            <li>✨ Transparent and Fair Tokenomics</li>
+            <li>💎 Exclusive FoxyAI Rewards</li>
+        </ul>
+    </section>
+
+    <section id="tokenomics">
+        <h2>Tokenomics</h2>
+        <p>Total Supply: <span class="highlight">1,000,000,000 FOXYAI</span></p>
+        <p>Allocation:</p>
+        <ul>
+            <li>50% Community and Rewards</li>
+            <li>20% Development and Innovation</li>
+            <li>15% Marketing and Growth</li>
+            <li>10% Liquidity</li>
+            <li>5% Reserve</li>
+        </ul>
+    </section>
+
+    <section id="faq">
+        <h2>FAQ</h2>
+        <p><strong>How can I buy FoxyAI?</strong><br>Add the contract address to your wallet and trade on decentralized exchanges.</p>
+        <p><strong>What makes FoxyAI different?</strong><br>Its unique blend of AI-powered features and community-driven approach.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Email: <a href="mailto:support@foxyai.com" style="color:#ffcc00;">support@foxyai.com</a></p>
+    </section>
+
+    <footer>
+        FoxyAI © 2025. All Rights Reserved.
+    </footer>
+</body>
+</html>
